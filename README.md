@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Vincent!
 
 ## 🔭 Currently working on:
-- My own chess engine
+- Integrating python-chess library into GUI
 
 ## 🌱 I’m currently learning:
 - Python stuff  
